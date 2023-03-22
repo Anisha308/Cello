@@ -1,0 +1,134 @@
+body{
+    background-color: white;
+}
+
+.header{
+    display: flex;
+    padding-top: 10px;
+    width: 100%;
+    background-color:#f52626;
+    padding-left: 20px;
+    padding-bottom:10px;
+    margin-top: -1%;
+    margin-left: -1%;
+    height: 85px;
+    
+} 
+
+.hea1 img{
+padding-left: 70px;
+height:100px;
+width:100px;
+background-size: cover;
+}
+
+.hea2 a{
+    
+    text-decoration: none;
+    margin: 20px;
+    margin-top: 35px;
+    color:white;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+  
+}
+
+.icon img{
+    margin-top: 35px;
+    padding-left: 400px;
+}
+.first img{
+    height : 600px;
+    width: 100%;
+}
+.pen h1{
+    color: #f52626;
+    margin:20px;
+    text-align: center;
+}
+.pen p{
+    text-align: center;
+    margin-top: 20px;
+}
+.border {
+    margin-top: 0%;
+    height: 20px;
+    width:100%;
+    background-color:#f52626;
+    
+}
+.explore img {
+    height: 400px;
+    width : 300px;
+    padding: 10px;
+    
+}
+.fountain img{
+    
+    height: 400px;
+    width:  300px;
+    margin-left: 10px;
+    padding: 10px;
+}
+.space{
+    margin-left: 200px;
+}
+.fountain{
+    margin-left: 350px;
+}
+
+.footer{
+    background-color:#f52626;
+    display:flex;
+    color:white;
+    height: 500px;
+    padding-top: 90px;
+
+}
+.About-cello{
+    width: 400px;
+    font-size: large;
+    margin-left: 60px;
+    
+}
+.Cello-Products{
+    width:400px;
+    font-size: large;
+    color:white;
+    text-decoration: none;
+}
+
+.Quick-Links{
+    width:400px;
+    font-size: large;
+    color:white;
+    
+}
+.Cello-Products a{
+    color:white;
+    text-decoration: none;
+}
+.products li{
+    line-height: 30px;
+    list-style: none;
+    color: white;
+}
+.Quick-Links a{
+    color:white;
+    text-decoration: none;
+}
+.contact li{
+    list-style:none;
+    line-height: 30px;   
+}
+.social {
+    margin-top: 30px;
+}
+
+.fa-brands{
+    height:40px;
+    width:150px;
+    color:white;
+}
